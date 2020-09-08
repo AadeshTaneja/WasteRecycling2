@@ -1,1 +1,2 @@
-# WasteRecycling2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
